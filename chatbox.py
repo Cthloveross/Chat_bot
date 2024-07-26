@@ -167,7 +167,7 @@ def chat_with_bot():
             formatted_input = conversational_prompt_template.format(conversation_history=conversation_history, user_input=user_input, user_info=json.dumps(user_info, indent=2))
             
             # Use the conversational LLM to respond
-            bot_response = conversational_llm.predict(formatted_input)
+            bot_response = conversational_llm.invoke(formatted_input)
             print(f"Bot: {bot_response}")
             
             # Use the extraction LLM to extract information
