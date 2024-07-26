@@ -1,0 +1,26 @@
+[
+    {
+        "user": "hihi",
+        "bot": "Hello! I am here to help you with your study abroad journey. Can you tell me a little bit about yourself?"
+    },
+    {
+        "user": "I am Jason and I want to go to US",
+        "bot": " Hi Jason, it's nice to meet you! Can you tell me more about your personal information? Such as your gender, nationality, and your undergraduate country and school? This will help me better understand your study abroad status."
+    },
+    {
+        "user": "I am male, and I am from China, I want to study Computer Science",
+        "bot": " Great! And what is your intended graduate school country, intended degree and major? Also, do you have a second undergraduate major? This will help me guide you towards suitable programs and universities for your academic goals.\n"
+    },
+    {
+        "user": "My second major is Math. Does it helpful?",
+        "bot": "Yes, that's great! It shows that you have a strong foundation in both computer science and math. Can you also tell me about your grades and test scores? This will help me assess your academic profile and suggest suitable programs and universities for you."
+    },
+    {
+        "user": "I have gre 324 and no gmat",
+        "bot": "\nThat's a great GRE score! Can you also tell me about your undergraduate GPA and rank? Also, have you taken any language proficiency tests? Knowing this information will help me better understand your academic background and suggest suitable programs and universities for you."
+    },
+    {
+        "user": "3.8 gpa and rank as top 10 in school",
+        "bot": "That's impressive! And have you taken any language proficiency tests? Knowing this information will help me better understand your language skills and suggest suitable programs and universities for you."
+    }
+]

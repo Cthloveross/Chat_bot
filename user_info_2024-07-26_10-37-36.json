@@ -1,0 +1,32 @@
+{
+    "personalInfo": {
+        "personalInfo": {
+            "gender": null,
+            "nationality": null,
+            "undergradCountry": null,
+            "undergradSchool": null,
+            "undergradMajor": null,
+            "intendGradSchoolCountry": null,
+            "intendedDegree": null,
+            "IntendedMajor": null,
+            "secondUndergradMajor": null,
+            "GraduationYear": null
+        },
+        "standardGrades": {
+            "gpa": 3.8,
+            "gpaTotal": null,
+            "rank": "top 10",
+            "rankTotal": null,
+            "languageTestType": null,
+            "languageTestScore": null,
+            "gre": null,
+            "gmat": null
+        },
+        "professionalExperiences": [],
+        "academicExperience": [],
+        "honors": [],
+        "activities": [],
+        "other": {},
+        "appliedPrograms": []
+    }
+}

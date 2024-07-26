@@ -1,0 +1,22 @@
+[
+    {
+        "user": "hihi",
+        "bot": " Hello! My name is Study Abroad Consultant and I am here to assist you with your study abroad plans. How can I help you today?\n"
+    },
+    {
+        "user": "I want to go to US",
+        "bot": " Great, the US is a popular destination for studying abroad. Can you tell me a little bit about yourself? For example, what is your gender and nationality?"
+    },
+    {
+        "user": "I am a boy and I am from China",
+        "bot": "Okay, thank you for sharing that. Now, can you tell me a bit about your academic background? Which country did you complete your undergraduate studies in and which school did you attend? Also, what was your major in undergrad? "
+    },
+    {
+        "user": "I study computer science and with a Math second major",
+        "bot": " That's great! Computer science is a popular major for international students in the US. Do you have a specific graduate school in mind that you would like to apply to? Also, when are you planning to graduate from your undergraduate program?"
+    },
+    {
+        "user": "I want to study Computer Science in harvard",
+        "bot": " Harvard is a fantastic choice for computer science. Have you taken any standardized tests like the GRE or GMAT? It's also important to have a strong GPA and ranking in your undergraduate studies. Can you tell me your current GPA and ranking?"
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "personalInfo": {
+        "personalInfo": {
+            "gender": null,
+            "nationality": null,
+            "undergradCountry": null,
+            "undergradSchool": null,
+            "undergradMajor": null,
+            "intendGradSchoolCountry": null,
+            "intendedDegree": null,
+            "IntendedMajor": null,
+            "secondUndergradMajor": null,
+            "GraduationYear": null
+        },
+        "standardGrades": {
+            "gpa": null,
+            "gpaTotal": null,
+            "rank": null,
+            "rankTotal": null,
+            "languageTestType": null,
+            "languageTestScore": null,
+            "gre": null,
+            "gmat": null
+        },
+        "professionalExperiences": [
+            {
+                "employer": null,
+                "companySize": null,
+                "title": null,
+                "startDate": null,
+                "endDate": null,
+                "jd": null
+            }
+        ],
+        "academicExperience": [
+            {
+                "category": null,
+                "projectName": null,
+                "title": null,
+                "startDate": null,
+                "endDate": null,
+                "outcome": null
+            }
+        ],
+        "honors": [
+            {
+                "category": null,
+                "projectName": null,
+                "name": null,
+                "pool": null,
+                "earnDate": null,
+                "description": null
+            }
+        ],
+        "activities": [
+            {
+                "name": null,
+                "organization": null,
+                "title": null,
+                "startDate": null,
+                "endDate": null,
+                "details": null
+            }
+        ],
+        "other": {
+            "personalWebsite": null,
+            "otherInfo": null
+        },
+        "appliedPrograms": [
+            {
+                "programLevel": null,
+                "program": null,
+                "school": null,
+                "result": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "user": "hihi",
+        "bot": " Hi there! Thank you for contacting me. My name is John and I am a professional study abroad consultant. How can I help you?"
+    },
+    {
+        "user": "I am Jason and I want to study Computer Science in US",
+        "bot": "That's great, Jason! Could you please provide me with some more information about your study abroad status? This will help me guide you better."
+    }
+]
